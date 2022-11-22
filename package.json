@@ -1,0 +1,20 @@
+{
+  "name": "cypress-2nd-project",
+  "version": "1.0.0",
+  "description": "Testy API Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress",
+    "testy",
+    "API",
+    "kurs"
+  ],
+  "author": "abrodowicz",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.1"
+  }
+}
